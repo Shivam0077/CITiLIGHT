@@ -171,7 +171,11 @@ input{
     input{
         width: 440px;
     }
-
+    .building-name-container {
+        display: flex;
+        height: 65px;
+        justify-content: left!important;
+    }
 
   }
 
@@ -228,6 +232,7 @@ input{
 
     width: -webkit-fill-available !important;
 }
+
 
 .floor-depth-selection2 {
     margin: 15px!important;

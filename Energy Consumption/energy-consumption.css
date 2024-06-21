@@ -118,6 +118,11 @@ input{
         width: 440px;
     }
 
+    .cards {
+        height: 73px !important;
+        font-size: 12px !important;
+        /* padding: 0 !important; */
+    }
 
   }
 
@@ -126,6 +131,11 @@ input{
         width: 310px;
     }
     
+    .cards {
+        height: 73px !important;
+        font-size: 12px!important;
+        padding: 0 !important;
+    }
    
     .floor-depth-selection {
         height: 215px;
@@ -149,6 +159,12 @@ input{
         margin-right: auto;
         padding: 0px;
         margin-top: 0;
+    }
+
+    .cards {
+        height: 84px !important;
+        font-size: 12px !important;
+         /* padding: 0 !important; */
     }
   }
 
@@ -176,6 +192,8 @@ input{
         padding: 0px;
         margin-top: 0;
     }
+
+    
   }
 
 .cards-container{
