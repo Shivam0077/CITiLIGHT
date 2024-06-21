@@ -84,6 +84,15 @@ button:hover{
         right: 57px;
         width: calc(30vw - 159px);
     }
+    b{
+        font-size: 20px;
+    }
+    .building-img {
+        text-align: center!important;
+        width: 80px!important;
+        height: 80px;
+  }
+  
   }
 
   @media only screen and (max-width: 1300px) {  
@@ -93,7 +102,12 @@ button:hover{
         right: 61px !important;
         width: calc(30vw - 159px);
     }
+
+    .building-details {
+        width: 502px;
+        height: 164px!important;
   }
+}
 
   @media only screen and (max-width: 1845px) {  
     #svg{
